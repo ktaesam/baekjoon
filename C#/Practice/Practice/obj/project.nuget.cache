@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+dH9oveEXQjJ3IVxzuB0xTRPKwYfXhqekujD4ZgvF0S3rmmF0FX0dffC7CBtZtiAVRhDYg6bP6S8kTHpgekclw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\black\\Desktop\\baekjoon\\baekjoon\\C#\\Practice\\Practice\\Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\black\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
